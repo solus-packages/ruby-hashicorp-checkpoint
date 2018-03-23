@@ -1,0 +1,48 @@
+<PISI>
+    <Source>
+        <Name>ruby-hashicorp-checkpoint</Name>
+        <Packager>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
+        </Packager>
+        <License>MPL-2.0</License>
+        <PartOf>programming.ruby</PartOf>
+        <Summary xml:lang="en">RubyGem - hashicorp-checkpoint</Summary>
+        <Description xml:lang="en">Internal HashiCorp service to check version information.
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>ruby-hashicorp-checkpoint</Name>
+        <Summary xml:lang="en">RubyGem - hashicorp-checkpoint</Summary>
+        <Description xml:lang="en">Internal HashiCorp service to check version information.
+</Description>
+        <PartOf>programming.ruby</PartOf>
+        <Files>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/.gitignore</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/Gemfile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/LICENSE.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/lib/checkpoint.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/lib/checkpoint/platform.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/lib/checkpoint/version.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/ruby-checkpoint.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/spec/checkpoint_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/spec/helper.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/hashicorp-checkpoint-0.1.5.gemspec</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2018-03-23</Date>
+            <Version>0.1.5</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
+        </Update>
+    </History>
+</PISI>
