@@ -1,6 +1,6 @@
 name       : ruby-hashicorp-checkpoint
 version    : 0.1.5
-release    : 1
+release    : 2
 source     :
     - https://rubygems.org/downloads/hashicorp-checkpoint-0.1.5.gem : 4daf74afd63c1701a6c817d87e4fc58f595037ccbc1d302bc45cdcd3f6e7d5fc
 license    : MPL-2.0
@@ -9,7 +9,7 @@ summary    : RubyGem - hashicorp-checkpoint
 description: |
     Internal HashiCorp service to check version information.
 builddeps  :
-    - pkgconfig(ruby-2.3)
+    - pkgconfig(ruby-2.6)
 rundeps    :
     - ruby
 install    : |

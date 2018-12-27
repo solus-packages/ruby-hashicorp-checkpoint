@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-hashicorp-checkpoint</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>MPL-2.0</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,30 +19,30 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/.gitignore</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/Gemfile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/LICENSE.txt</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/README.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/lib/checkpoint.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/lib/checkpoint/platform.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/lib/checkpoint/version.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/ruby-checkpoint.gemspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/spec/checkpoint_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/hashicorp-checkpoint-0.1.5/spec/helper.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/hashicorp-checkpoint-0.1.5.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/hashicorp-checkpoint-0.1.5/.gitignore</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/hashicorp-checkpoint-0.1.5/Gemfile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/hashicorp-checkpoint-0.1.5/LICENSE.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/hashicorp-checkpoint-0.1.5/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/hashicorp-checkpoint-0.1.5/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/hashicorp-checkpoint-0.1.5/lib/checkpoint.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/hashicorp-checkpoint-0.1.5/lib/checkpoint/platform.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/hashicorp-checkpoint-0.1.5/lib/checkpoint/version.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/hashicorp-checkpoint-0.1.5/ruby-checkpoint.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/hashicorp-checkpoint-0.1.5/spec/checkpoint_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/hashicorp-checkpoint-0.1.5/spec/helper.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/hashicorp-checkpoint-0.1.5.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-03-23</Date>
+        <Update release="2">
+            <Date>2018-12-26</Date>
             <Version>0.1.5</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>
