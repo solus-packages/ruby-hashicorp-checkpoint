@@ -1,6 +1,6 @@
 name       : ruby-hashicorp-checkpoint
 version    : 0.1.5
-release    : 2
+release    : 3
 source     :
     - https://rubygems.org/downloads/hashicorp-checkpoint-0.1.5.gem : 4daf74afd63c1701a6c817d87e4fc58f595037ccbc1d302bc45cdcd3f6e7d5fc
 license    : MPL-2.0
